@@ -1,3 +1,15 @@
+# 24/7 Website
+---
+
+## Install
+
+```bash
+# Clone repository from GitHub to <directory>
+$ git clone https://github.com/wisnust/24-7-website.git < your directory>
+
+# Switch to <your directory>
+$ cd <your directory>
+
 # Install all dependencies
 $ npm install
 
@@ -29,3 +41,4 @@ $ lint:js
 
 # Fix main.js file
 $ lint:js:fix
+```
